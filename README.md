@@ -1,2 +1,2 @@
 # quick-interpreter
-Interpreter for the Quick Scripting Language
+Interpreter for the Quickly Scripting Language
